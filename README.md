@@ -28,7 +28,7 @@ Customer segmentation is a key strategy in marketing that allows businesses to c
 
 ## Dataset
 
-The dataset used in this project contains customer transaction data, including features such as purchase frequency and average purchase value. The dataset can be found [here](#) (link to the dataset if available).
+The dataset used in this project contains customer transaction data, including features such as purchase frequency and average purchase value. The dataset can be found [here](https://github.com/rajrawal/rajrawal-Customer-Segmentation-using-K-Means-Clustering/blob/main/Mall_Customers.csv) (link to the dataset if available).
 
 ## Data Preprocessing
 
